@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-dateutil
+starlette
+mysql-connector-python
+pydantic
