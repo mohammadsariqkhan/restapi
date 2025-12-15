@@ -31,7 +31,6 @@ print(get_connection())
 
 
 
-print('good bye phir nahi milange')
 
 
 
